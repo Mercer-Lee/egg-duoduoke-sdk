@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "eggPlugin": {
-    "name": "egg-duoduoke-sdk"
+    "name": "duoduokeSdk"
   },
   "keywords": [
     "egg",
@@ -38,7 +38,9 @@
     "autod": "autod"
   },
   "files": [
-    "config"
+    "config",
+    "app.js",
+    "lib"
   ],
   "ci": {
     "version": "8, 10"
