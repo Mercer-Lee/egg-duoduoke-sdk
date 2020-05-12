@@ -11,8 +11,5 @@ const PddClient = require('./lib/duoduoke');
 
 module.exports = app => {
 
-  app.duoduoke = new PddClient({
-    clientId: '4a457c9ccbb74bbf9f8d31943b6e0ce3',
-    clientSecret: '9b212f3587d5e02825959a235f2fa81a3f89cf2a',
-  });
+  app.duoduoke = new PddClient(app.config.duoduoke);
 };
