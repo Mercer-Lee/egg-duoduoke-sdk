@@ -1,6 +1,6 @@
 {
   "name": "egg-duoduoke-sdk",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "",
   "eggPlugin": {
     "name": "duoduokeSdk"
@@ -47,10 +47,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-duoduoke-sdk.git"
+    "url": "git+https://github.com/Mercer-Lee/egg-duoduoke-sdk"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/Mercer-Lee/egg-duoduoke-sdk/issues"
   },
   "homepage": "https://github.com/eggjs/egg-duoduoke-sdk#readme",
   "author": "mercer",
