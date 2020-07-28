@@ -1,6 +1,6 @@
 {
   "name": "egg-duoduoke-sdk",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "eggPlugin": {
     "name": "duoduokeSdk"
@@ -52,7 +52,7 @@
   "bugs": {
     "url": "https://github.com/Mercer-Lee/egg-duoduoke-sdk/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-duoduoke-sdk#readme",
+  "homepage": "https://github.com/Mercer-Lee/egg-duoduoke-sdk",
   "author": "mercer",
   "license": "MIT"
 }
